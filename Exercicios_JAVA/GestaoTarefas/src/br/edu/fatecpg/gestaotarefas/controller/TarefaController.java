@@ -11,7 +11,7 @@ import java.util.List;
 public class TarefaController {
 
     public String inserirtarefa(String nm_tarefa, String nm_categoria, boolean ic_tarefa_feito_naofeito, String dt_tarefa) {
-        // ❗ Corrigido: vírgula extra após dt_tarefa
+      
         String query = "INSERT INTO tarefa(nm_tarefa, nm_categoria, ic_tarefa_feito_naofeito, dt_tarefa) VALUES(?, ?, ?, ?)";
 
         try (var conexao = Tarefa.conectar()) {
