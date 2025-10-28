@@ -1,0 +1,16 @@
+[ {
+  "id" : "p003",
+  "nome" : "Monitor 24 polegadas",
+  "preco" : 950.0,
+  "qtdEstoque" : 10
+}, {
+  "id" : "p002",
+  "nome" : "Mouse Gamer",
+  "preco" : 180.5,
+  "qtdEstoque" : 30
+}, {
+  "id" : "p001",
+  "nome" : "Teclado Mecânico",
+  "preco" : 350.0,
+  "qtdEstoque" : 18
+} ]
