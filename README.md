@@ -44,7 +44,7 @@ O repositório tem como principais objetivos:
    ```bash
     cd Sistema_de_Gerenciamento_InventarioPedidos
    
- 4. Compile e execute o arquivo principal (aquele que contém o método public static void main(String[] args)).
+
 
 ---
 
@@ -82,8 +82,7 @@ Contribuições são bem-vindas!
 3. Faça o commit das alterações:  
    ```bash
    git commit -m "Descrição da mudança"
-
-4.Envie o pull request para revisão.
+4. Faça um pull com as alterações.
 
 ---
 
