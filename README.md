@@ -41,9 +41,9 @@ O repositório tem como principais objetivos:
 2. Abra o projeto em uma IDE de sua preferência (IntelliJ, Eclipse, NetBeans, VS Code com extensão Java).
 
 3. Acesse a pasta do projeto que deseja executar, por exemplo:
-  ```bash
+   ```bash
     cd Sistema_de_Gerenciamento_InventarioPedidos
-```
+   
 4. Compile e execute o arquivo principal (aquele que contém o método public static void main(String[] args)).
 
 ---
@@ -79,10 +79,10 @@ Contribuições são bem-vindas!
    ```bash
    git checkout -b minha-feature
    
-3.Faça o commit das alterações:
-  ```bash
-    git commit -m "Descrição da mudança"
-```
+3. Faça o commit das alterações:  
+   ```bash
+   git commit -m "Descrição da mudança"
+
 4.Envie o pull request para revisão.
 
 ---
@@ -91,7 +91,6 @@ Contribuições são bem-vindas!
 
 Este projeto é de uso livre para fins educacionais.
 Sinta-se à vontade para estudar, modificar e aprimorar os códigos.
-
 ---
 👨‍💻 Autor
 
