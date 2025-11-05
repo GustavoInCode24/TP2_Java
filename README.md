@@ -88,9 +88,8 @@ Contribuições são bem-vindas!
 ---
 
 ## 📄 Licença
-
-Este projeto é de uso livre para fins educacionais.
-Sinta-se à vontade para estudar, modificar e aprimorar os códigos.
+- Este projeto é de uso livre para fins educacionais.
+- Sinta-se à vontade para estudar, modificar e aprimorar os códigos.
 ---
 👨‍💻 Autor
 
