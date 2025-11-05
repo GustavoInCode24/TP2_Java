@@ -82,6 +82,7 @@ Contribuições são bem-vindas!
 3. Faça o commit das alterações:  
    ```bash
    git commit -m "Descrição da mudança"
+   
 4. Faça um pull com as alterações.
 
 ---
