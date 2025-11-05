@@ -44,7 +44,7 @@ O repositório tem como principais objetivos:
    ```bash
     cd Sistema_de_Gerenciamento_InventarioPedidos
    
-4. Compile e execute o arquivo principal (aquele que contém o método public static void main(String[] args)).
+ 4. Compile e execute o arquivo principal (aquele que contém o método public static void main(String[] args)).
 
 ---
 
